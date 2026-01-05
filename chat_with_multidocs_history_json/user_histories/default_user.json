@@ -1,0 +1,15 @@
+{
+  "user_id": "default_user",
+  "conversations": [
+    {
+      "timestamp": "2026-01-03 19:28:07",
+      "question": "what certification talha have been done",
+      "answer": "According to the document context, Talha has the following certifications:\n\n1. n8n certification\n2. Introduction to LLMOps from Deeplearning.AI\n3. Introduction to Generative AI from Google Cloud\n4. Building Agentic RAG with LlamaIndex from Deeplearning.AI\n5. Pretraining LLMs from Deeplearning.AI\n6. Chat with your data from Deeplearning.AI\n7. Prompt Engineering from Deeplearning.AI\n8. Introduction to Deep Learning from Kaggle\n9. Introduction to Machine Learning from Kaggle\n10. Pandas / Numpy from Kaggle\n11. Intermediate Python from DataCamp\n12. NO Code Development by n8n from Simplilearn"
+    },
+    {
+      "timestamp": "2026-01-03 19:28:30",
+      "question": "what is his email ",
+      "answer": "talhaahmedrk@gmail.com"
+    }
+  ]
+}
